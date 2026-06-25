@@ -67,7 +67,7 @@ mas gosto de todas as tecnologias no geral.
 <h2><code style="background-color: #00000000">tecnologias</code></h2>
 
 <img
-src="https://skillicons.dev/icons?i=java,python,git,github,html,css,javascript,linux"
+src="https://skillicons.dev/icons?i=java,python,git,github,html,css,javascript,arch"
 />
 
 </div>
