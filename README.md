@@ -7,21 +7,19 @@
 ```
 </div>
 
+![https://github.com/murilo-a-souza/murilo-a-souza/blob/main/murilo-a-souza](https://img.shields.io/badge/LinkedIn-Murilo%20Souza-orange?style=flat&logo=linkedin)
+
 <header align="center">
 
 <div align="center">
-<h1><code style="background-color: #00000000">Murilo de Souza</code></h1>
+<h1>Murilo de Souza</h1>
 
 Estudante de Tecnologia
 </div>
 
-
-
-
-
 </header>
-<div align="center">
-<h2><code style="background-color: #00000000">sobre</code></h2>
+<div align="center" style="color: 250, 200, 0">
+<h2><code>sobre</code></h2>
 </div>
 
 
@@ -72,24 +70,9 @@ src="https://skillicons.dev/icons?i=java,python,git,github,html,css,javascript,a
 
 </div>
 
-<div align="center">
-
-<h2><code style="background-color: #00000000">estatísticas</code></h2>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=murilo-a-souza&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=00000000"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=murilo-a-souza&layout=compact&theme=midnight-purple&hide_border=true&bg_color=00000000"
-/>
-
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=murilo-a-souza&hide=stars&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=murilo-a-souza&hide=stars&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 
 <div align="center">
-
 <h2><code style="background-color: #00000000">contato</code></h2>
 
 <a href="mailto:sir.murilos@gmail.com">
