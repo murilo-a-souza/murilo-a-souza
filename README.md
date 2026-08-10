@@ -15,7 +15,7 @@ Estudante de Tecnologia
 
 <div style="display: flex">
 
-![LinkedIn](https://img.shields.io/badge/Linkedin-Murilo_Souza-blue?style=flat&labelColor=grey&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurilo-a-souza%2F) ![Email](https://img.shields.io/badge/Email-Contato-orange?style=flat&labelColor=grey&color=orange&link=mailto%3Asir.murilos%40gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-Murilo_Souza-blue?style=flat&labelColor=grey&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurilo-a-souza%2F)](https://www.linkedin.com/in/murilo-a-souza/) [![Email](https://img.shields.io/badge/Email-Contato-orange?style=flat&labelColor=grey&color=orange&link=mailto%3Asir.murilos%40gmail.com)](mailto:sir.murilos@gmail.com)
 
 </div>
 
