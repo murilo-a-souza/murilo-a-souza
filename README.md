@@ -1,13 +1,10 @@
-<div align="center">
+
 
 ```text
-╭─────────────────────────────────────────────────╮
-             🔴 🟡 🟢   murilo-a-souza — README.md                  
-╰─────────────────────────────────────────────────╯
+                                          ╭─────────────────────────────────────────────────╮
+                                                   murilo-a-souza — README.md    🔴 🟡 🟢                  
+                                          ╰─────────────────────────────────────────────────╯
 ```
-</div>
-
-![https://github.com/murilo-a-souza/murilo-a-souza/blob/main/murilo-a-souza](https://img.shields.io/badge/LinkedIn-Murilo%20Souza-orange?style=flat&logo=linkedin)
 
 <header align="center">
 
@@ -15,7 +12,19 @@
 <h1>Murilo de Souza</h1>
 
 Estudante de Tecnologia
+
+<div style="display: flex">
+
+![LinkedIn](https://img.shields.io/badge/Linkedin-Murilo_Souza-blue?style=flat&labelColor=grey&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurilo-a-souza%2F) ![Email](https://img.shields.io/badge/Email-Contato-orange?style=flat&labelColor=grey&color=orange&link=mailto%3Asir.murilos%40gmail.com)
+
 </div>
+
+<div align="center">
+
+
+  
+</div>
+
 
 </header>
 <div align="center" style="color: 250, 200, 0">
@@ -68,19 +77,7 @@ mas gosto de todas as tecnologias no geral.
 src="https://skillicons.dev/icons?i=java,python,git,github,html,css,javascript,arch"
 />
 
-</div>
-
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=murilo-a-souza&hide=stars&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=murilo-a-souza&hide=stars&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=codeSTACKr)
-
-<div align="center">
-<h2><code style="background-color: #00000000">contato</code></h2>
-
-<a href="mailto:sir.murilos@gmail.com">
-📧 Email
-</a>•<a href="https://linkedin.com/in/murilo-a-souza">
-💼 LinkedIn
-</a>
-
 </div>
 
 ---
