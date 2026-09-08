@@ -6,10 +6,12 @@
 Estudante de Tecnologia
 
 Amo tecnologia, e quero aprender o máximo possível e entregar o meu melhor no desenvolvimento e criação de projetos.
+
 <div style="display: flex">
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-Murilo_Souza-blue?style=flat&labelColor=grey&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmurilo-a-souza%2F)](https://www.linkedin.com/in/murilo-a-souza/) [![Email](https://img.shields.io/badge/Email-Contato-orange?style=flat&labelColor=grey&color=orange&link=mailto%3Asir.murilos%40gmail.com)](mailto:sir.murilos@gmail.com)
 
+<details><summary><sup>Clique nas setas como essa para ver detalhes ao longo do perfil</sup></summary><sub>O markdown aceita HTML, essa funcionalidade vem da tag &lt;details&gt;</sub></details>
 </div>
 
 <div align="center">
@@ -23,6 +25,7 @@ Amo tecnologia, e quero aprender o máximo possível e entregar o meu melhor no 
 <div align="center" style="color: 250, 200, 0">
 <h2><code>sobre</code></h2>
 </div>
+
 
 
 <details>
@@ -66,8 +69,7 @@ mas gosto de todas as tecnologias no geral.
     <details>
       <summary>
         <a href="https://github.com/SolConTech/gs-aura" style="color: #a70fff">
-          <strong>Aura</strong>
-        </a>
+          <strong>Aura</strong></a>
         —
         Protótipo de plataforma de gerenciamento de equipes em ambientes extremos
         <em>(Finalizado)</em>
@@ -103,8 +105,7 @@ mas gosto de todas as tecnologias no geral.
     <details>
       <summary>
         <a href="https://github.com/SolConTech/challenge-ecoscore" style="color: #a70fff">
-          <strong>EcoScore</strong>
-        </a>
+          <strong>EcoScore</strong></a>
         —
         Plataforma de gamificação sustentável.
         <em>(Em andamento)</em>
@@ -141,6 +142,27 @@ mas gosto de todas as tecnologias no geral.
         </ul>
     </details>
 </li>
+
+<br>
+
+<li>
+  <details>
+      <summary>
+        <a href="https://github.com/1TDSPH-26/portal-locais-acessiveis" style="color: #a70fff">
+          <strong>Portal de Locais Acessíveis</strong></a>
+        <em>(Tech lead)</em> —
+         Portal de acessibilidade. <em>(Em andamento)</em>
+      </summary>
+        <hr>
+        <p>Um projeto da sala 1TDSPH da FIAP, 34 alunos juntos, desenvolvendo uma site usando <em>React</em> e <em>Tailwind</em> com uso de <em>API</em> para auxíliar pessoas com deficiência a encontrarem de maneira fácil, com uma simples pesquisa, quais estabelecimentos possuem o que é necessário pra eles, como vagas reservadas, espaço para abrir porta do carro e muitos outros. Nosso portal vai ajudar muitas pessoas a evitarem transtornos, perda de tempo e outras complicações</p>
+      <p>Nesse projeto, eu atuo como um dos Tech-Lead, criando <em>Issues</em> com base nas demandas do <strong>professor Alexandre</strong> (@alecarlosjesus), ajudando meus colegas <i>Devs</i> e instruindo os <i>QA's</i>, sendo responsável por uma parte da revisão e pela aprovação de <i>merges</i>.</p>
+    </details>
+</li>
+
+</ul>
+
+
+
 
 <div align="center">
 
