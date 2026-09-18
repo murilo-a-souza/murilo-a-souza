@@ -104,7 +104,7 @@ mas gosto de todas as tecnologias no geral.
 <li>
     <details>
       <summary>
-        <img alt="Static Badge" src="https://img.shields.io/badge/ECOSCORE-097D24?style=for-the-badge&logo=leaflet&logoColor=097D24&logoSize=10&labelColor=ffffff&link=https%3A%2F%2Fgithub.com%2Ffrancosdev%2Fchallenge-soulup-solcon">
+        <a href="https://github.com/francosdev/challenge-soulup-solcon"><img alt="Static Badge" src="https://img.shields.io/badge/ECOSCORE-097D24?style=for-the-badge&logo=leaflet&logoColor=097D24&logoSize=10&labelColor=ffffff&link=https%3A%2F%2Fgithub.com%2Ffrancosdev%2Fchallenge-soulup-solcon"></a>
         <p>
         Plataforma de gamificação sustentável.
         <em>(Em andamento)</em></p>
@@ -147,7 +147,7 @@ mas gosto de todas as tecnologias no geral.
 <li>
   <details>
       <summary>
-        <img alt="Static Badge" src="https://img.shields.io/badge/PORTAL%20LOCAIS%20ACESS%C3%8DVEIS-4400aa?style=for-the-badge&logo=googlemaps&logoColor=ffffff&logoSize=10&link=https%3A%2F%2Fgithub.com%2F1TDSPH-26%2Fportal-locais-acessiveis.git">
+        <a href="https://github.com/1TDSPH-26/portal-locais-acessiveis" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/PORTAL%20LOCAIS%20ACESS%C3%8DVEIS-4400aa?style=for-the-badge&logo=googlemaps&logoColor=ffffff&logoSize=10&link=https%3A%2F%2Fgithub.com%2F1TDSPH-26%2Fportal-locais-acessiveis.git"></a>
         <em>(Tech lead)</em>
          <p>Portal de acessibilidade. <em>(Em andamento)</em></p>
       </summary>
