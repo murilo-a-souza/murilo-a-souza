@@ -68,9 +68,7 @@ mas gosto de todas as tecnologias no geral.
 <li>
     <details>
       <summary>
-        <button>
           <img alt="Static Badge" src="https://img.shields.io/badge/AURA-000000?style=for-the-badge&logo=rocket&logoColor=3300ff&logoSize=10&labelColor=000000&color=000000&link=https%3A%2F%2Fgithub.com%2FSolConTech%2Fgs-aura">
-        </button>
         <p>Protótipo de plataforma de gerenciamento de equipes em ambientes extremos
         <em>(Finalizado)</em></p>
       </summary>
