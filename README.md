@@ -68,11 +68,11 @@ mas gosto de todas as tecnologias no geral.
 <li>
     <details>
       <summary>
-        <a href="https://github.com/SolConTech/gs-aura" style="color: #a70fff">
-          <strong>Aura</strong></a>
-        —
-        Protótipo de plataforma de gerenciamento de equipes em ambientes extremos
-        <em>(Finalizado)</em>
+        <button>
+          <img alt="Static Badge" src="https://img.shields.io/badge/AURA-000000?style=for-the-badge&logo=rocket&logoColor=3300ff&logoSize=10&labelColor=000000&color=000000&link=https%3A%2F%2Fgithub.com%2FSolConTech%2Fgs-aura">
+        </button>
+        <p>Protótipo de plataforma de gerenciamento de equipes em ambientes extremos
+        <em>(Finalizado)</em></p>
       </summary>
         <hr>
         <p>
@@ -104,11 +104,10 @@ mas gosto de todas as tecnologias no geral.
 <li>
     <details>
       <summary>
-        <a href="https://github.com/SolConTech/challenge-ecoscore" style="color: #a70fff">
-          <strong>EcoScore</strong></a>
-        —
+        <img alt="Static Badge" src="https://img.shields.io/badge/ECOSCORE-097D24?style=for-the-badge&logo=leaflet&logoColor=097D24&logoSize=10&labelColor=ffffff&link=https%3A%2F%2Fgithub.com%2Ffrancosdev%2Fchallenge-soulup-solcon">
+        <p>
         Plataforma de gamificação sustentável.
-        <em>(Em andamento)</em>
+        <em>(Em andamento)</em></p>
       </summary>
         <hr>
         <p>
@@ -148,10 +147,9 @@ mas gosto de todas as tecnologias no geral.
 <li>
   <details>
       <summary>
-        <a href="https://github.com/1TDSPH-26/portal-locais-acessiveis" style="color: #a70fff">
-          <strong>Portal de Locais Acessíveis</strong></a>
-        <em>(Tech lead)</em> —
-         Portal de acessibilidade. <em>(Em andamento)</em>
+        <img alt="Static Badge" src="https://img.shields.io/badge/PORTAL%20LOCAIS%20ACESS%C3%8DVEIS-4400aa?style=for-the-badge&logo=googlemaps&logoColor=ffffff&logoSize=10&link=https%3A%2F%2Fgithub.com%2F1TDSPH-26%2Fportal-locais-acessiveis.git">
+        <em>(Tech lead)</em>
+         <p>Portal de acessibilidade. <em>(Em andamento)</em></p>
       </summary>
         <hr>
         <p>Um projeto da sala 1TDSPH da FIAP, 34 alunos juntos, desenvolvendo uma site usando <em>React</em> e <em>Tailwind</em> com uso de <em>API</em> para auxíliar pessoas com deficiência a encontrarem de maneira fácil, com uma simples pesquisa, quais estabelecimentos possuem o que é necessário pra eles, como vagas reservadas, espaço para abrir porta do carro e muitos outros. Nosso portal vai ajudar muitas pessoas a evitarem transtornos, perda de tempo e outras complicações</p>
