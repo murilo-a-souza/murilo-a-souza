@@ -249,7 +249,7 @@ mas gosto de todas as tecnologias no geral.
     
 </details>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=murilo-a-souza&hide=stars&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=codeSTACKr)](https://github-stats-extended.vercel.app/api?username=murilo-a-souza&hide=stars&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=codeSTACKr)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=murilo-a-souza&hide=stars&rank_icon=github&custom_title=Estat%C3%ADsticas&show_icons=true&include_all_commits=true&theme=codeSTACKr)
 </div>
 
 ---
