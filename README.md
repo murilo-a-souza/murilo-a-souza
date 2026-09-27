@@ -2,8 +2,9 @@
 
 <div align="center">
 <h1>Murilo de Souza</h1>
+<p>Estudante de tecnologia</p>
 
-Estudante de Tecnologia
+**ADS na FIAP** & bolsista do bootcamp: **Itaú - Java com Inteligência Artificial**
 
 Amo tecnologia, e quero aprender o máximo possível e entregar o meu melhor no desenvolvimento e criação de projetos.
 
