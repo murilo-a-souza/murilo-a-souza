@@ -105,14 +105,14 @@ mas gosto de todas as tecnologias no geral.
 <li>
     <details>
       <summary>
-        <a href="https://github.com/francosdev/challenge-soulup-solcon"><img alt="Static Badge" src="https://img.shields.io/badge/ECOSCORE-097D24?style=for-the-badge&logo=leaflet&logoColor=097D24&logoSize=10&labelColor=ffffff&link=https%3A%2F%2Fgithub.com%2FSolConTech%2Fecoscore-java-db"></a>
+        <a href="https://github.com/SolConTech/ecoscore-java-db"><img alt="Static Badge" src="https://img.shields.io/badge/ECOSCORE-097D24?style=for-the-badge&logo=leaflet&logoColor=097D24&logoSize=10&labelColor=ffffff&link=https%3A%2F%2Fgithub.com%2Ffrancosdev%2Fchallenge-soulup-solcon"></a>
         <p>
         Plataforma de gamificação sustentável.
         <em>(Em andamento)</em></p>
       </summary>
         <hr>
         <p>
-          Projeto para o Challenge FIAP em pareceria com a SoulUp, para o primeiro semestre de Análise e Desenvolvimento de Sistemas. Uma plataforma de gamificação integrada à rede social da SoulUp; Eu contribui com toda a parte de Java e criaçõ de regra de negócios, estruturação de classes e aplicação do DDD e POO. mais detalhes clicando no botão do repositório
+          Projeto para o Challenge FIAP em pareceria com a SoulUp, para o primeiro semestre de Análise e Desenvolvimento de Sistemas. Uma plataforma de gamificação integrada à rede social da SoulUp; Eu contribui com toda a parte de Java e criação de regra de negócios, estruturação de classes e aplicação do DDD e POO, além da integração com o banco de dados. Mais detalhes clicando no botão do repositório acima.
         </p>
         <ul>
           <li>
